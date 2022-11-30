@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+}
+
+.bottom-head {
+    height: 60px;
+    background-color: rgba(255, 255, 0, 0.073);
+    border-width: 2px 0px 0px 0px;
+    border-style: solid;
+    border-color: rgba(255, 166, 0, 0.554);
+    text-align: center;    
+    color: rgb(17, 92, 92);
+    font-weight: 400;
+}
+
+.bottom-head p {
+    font-size: 1.2em;
+}
+
+p strong {
+    text-transform: uppercase;
+    font-weight: 1000;
+    text
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.2em;
+    margin-top: 44px;
+    margin-bottom: 25px;
+    margin-left: 34px;
+    margin-right: 34px;
+    color: rgb(23, 12, 0);
+}
+
+.foto {
+    margin: 0;
+    border-radius: 10px;
+}
+
+figcaption {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+    color: grey;
+}
+
+.featured {
+    padding-left: 20px;
+    border-width: 0px 0px 0px 2px;
+    border-style: solid;
+    border-color: rgba(255, 166, 0, 0.554);
+    margin-bottom:60px ;
+}
+
+.feat{
+    margin: 0;
+    text-transform: uppercase;
+    color: rgb(223, 105, 8);
+    font-weight: 900;
+    font-size: 1.3em;
+}
+
+.featured p {
+    border: 0;
+    margin: 0;
+}
+
+a {
+    color: rgb(0, 154, 154);
+}
+
+.section {
+    font-size: 1.5em;
+    border-width: 0px 0px 1px 0px;
+    border-style: solid;
+    padding-bottom: 20px;
+    border-color: rgba(70, 230, 242, 0.253);
+}
+
+ul li {
+    line-height: 2;
+}
+
+footer {
+    max-width: 800px;
+    margin: auto;
+}
