@@ -7,6 +7,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     padding: 30px;
+    height: 60px;
 }
 
 .bottom-head {
@@ -21,7 +22,7 @@ body {
 }
 
 .bottom-head p {
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 p strong {
