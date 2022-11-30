@@ -90,6 +90,10 @@ a {
     border-color: rgba(70, 230, 242, 0.253);
 }
 
+ol {
+    padding-top: 10px;
+}
+
 ul li {
     line-height: 2;
 }
